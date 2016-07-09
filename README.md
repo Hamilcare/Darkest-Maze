@@ -1,3 +1,3 @@
 # Darkest-Maze
-New Amazing Java game
+New Amazing C++ game
 
